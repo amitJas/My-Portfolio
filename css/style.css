@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.content{
+	padding: 20px;
+	font-family:  Comic Sans MS;
+}
+main{
+	width: 100%;
+}
+.mypic{
+	width: 44%;
+	margin-top: -150px;
+}
+
+.triangle{
+	width: 0;
+	height: 0;
+	border-top: 212px solid rgb(0, 26, 255);
+	border-left: 375px solid transparent;
+	float: right;
+}
+
+header h1{
+	font-family:  Comic Sans MS;
+}
