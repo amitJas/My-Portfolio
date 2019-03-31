@@ -1,6 +1,6 @@
 
 body{
-  background-image: "Portfolio/pic/back.png";    
+  background-image: url(Portfolio/pic/back.png);    
   height: 100%; 
   background-repeat: no-repeat;
     
