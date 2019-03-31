@@ -18,6 +18,7 @@ main{
     padding: 0;  
     height: 100%; 
     overflow: auto;
+   background: url(https://github.com/amitJas/Portfolio/blob/master/pic/background.png) no-repeat center center fixed; 
 }
 .grid-container {
     display: grid;
