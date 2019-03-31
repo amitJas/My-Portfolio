@@ -1,4 +1,14 @@
-body{
+html { 
+  background: url(pic/background.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+/* body{
 /*     background: url(https://github.com/amitJas/Portfolio/blob/master/pic/background.png); */
     background: url(pic/background.png) no-repeat center center fixed; 
       -webkit-background-size: cover;
@@ -6,7 +16,7 @@ body{
       -o-background-size: cover;
       background-size: cover;
     
-}
+} */
 main{
     margin: 0;
     padding: 0;  
