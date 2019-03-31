@@ -1,7 +1,8 @@
 body{
-    background-image: "pic/background.png";
+    /*background-image: "pic/background.png";*/
     height: 100%; 
     background-repeat: no-repeat;
+    background-color: red;
     
 }
 main{
