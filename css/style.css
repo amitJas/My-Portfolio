@@ -4,6 +4,12 @@ body{
 /*   height: 100%; 
   background-repeat: no-repeat; */
 } 
+
+.back{
+  z-index:-1;
+  pagging: 0px;
+  margin: 0px;
+} 
 main{
    background: url(https://github.com/amitJas/Portfolio/blob/master/pic/back.png);    
     margin: 0;
