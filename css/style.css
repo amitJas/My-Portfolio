@@ -1,15 +1,20 @@
 
-body{
+/* body{
   background: url(https://github.com/amitJas/Portfolio/blob/master/pic/back.png);    
-/*   height: 100%; 
-  background-repeat: no-repeat; */
+   height: 100%; 
+  background-repeat: no-repeat; 
 } 
 
 .back{
   z-index:-1;
   pagging: 0px;
   margin: 0px;
-} 
+}  */
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
 main{
    background: url(https://github.com/amitJas/Portfolio/blob/master/pic/back.png);    
     margin: 0;
@@ -22,6 +27,7 @@ main{
     grid-template-columns: auto ;
     grid-gap: 15px;
     padding-top: 50px;
+  margin-top: -642px;
 }
 .grid-container > div {
     text-align: center;
