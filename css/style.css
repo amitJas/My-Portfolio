@@ -1,9 +1,16 @@
 
 body{
-  background-image: url(Portfolio/pic/back.png);    
+ 
+  background: url(Portfolio/pic/back.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+/*   background-image: url(Portfolio/pic/back.png);    
   height: 100%; 
   background-repeat: no-repeat;
-    
+     */
 } 
 main{
     margin: 0;
