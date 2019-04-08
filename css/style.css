@@ -1,12 +1,8 @@
 
 body{
- 
- 
-
-  background: url(Portfolio/pic/back.png);    
-  height: 100%; 
-  background-repeat: no-repeat;
-    
+  background: url(https://github.com/amitJas/Portfolio/blob/master/pic/back.png);    
+/*   height: 100%; 
+  background-repeat: no-repeat; */
 } 
 main{
     margin: 0;
